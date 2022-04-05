@@ -1,6 +1,6 @@
-import { Router, Link } from "@reach/router";
-import Home from "./components/Home";
-import Timer from "./components/Timer";
+import { Router } from "@reach/router";
+import Home from "components/Home";
+import Timer from "components/Timer";
 
 const Routes = () => {
   return (
